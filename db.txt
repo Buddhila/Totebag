@@ -1,0 +1,4 @@
+tb1user(email/full_name/contact/password/interst)
+tb1item(itemID/title/published/path/category/description/email)
+tb1Interest(email/interest)
+tb1Comment(commentID/date/description/email/idemID)
